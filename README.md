@@ -1,4 +1,4 @@
-# Poise Service Runit Cookbook
+# Poise-Service-Monit Cookbook
 
 [![Build Status](https://img.shields.io/travis/poise/poise-service-monit.svg)](https://travis-ci.org/poise/poise-service-monit)
 [![Gem Version](https://img.shields.io/gem/v/poise-service-monit.svg)](https://rubygems.org/gems/poise-service-monit)
@@ -8,10 +8,10 @@
 [![License](https://img.shields.io/badge/license-Apache_2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 Set [Monit](https://github.com/poise/poise-monit) as the default provider for
-[poise-service](https://github.com/poise/poise-service).
+[`poise-service`](https://github.com/poise/poise-service).
 
-See [poise-service](https://github.com/poise/poise-service) for more information
-about usage and configuration.
+See [`poise-service`](https://github.com/poise/poise-service) and [`poise-monit`](https://github.com/poise/poise-monit)
+for more information about usage and configuration.
 
 ## Sponsors
 
